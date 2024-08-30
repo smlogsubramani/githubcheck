@@ -1,0 +1,1 @@
+Pac listportal view -p c:/dev
